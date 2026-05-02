@@ -39,11 +39,11 @@ O
 
 Si no dispone de una cuenta de Google, puede descargar las hojas de cálculo directamente de los archivos adjuntos que aparecen a continuación:
 
-[SalesByDay.xlsx](/google_data_analist/assets/SalesByDay.xlsx)
+[SalesByDay.xlsx](/google_data_analist/03.Preparar_datos_para_el_analisis/assets/SalesByDay.xlsx)
 
-[SalesByFlavor.xlsx](/google_data_analist/assets/SalesByFlavor.xlsx)
+[SalesByFlavor.xlsx](/google_data_analist/03.Preparar_datos_para_el_analisis/assets/SalesByFlavor.xlsx)
 
-[SalesByTemp.xlsx](/google_data_analist/assets/SalesByTemp.xlsx)
+[SalesByTemp.xlsx](/google_data_analist/03.Preparar_datos_para_el_analisis/assets/SalesByTemp.xlsx)
 
 
 ## Inspección de los Datos
@@ -54,7 +54,7 @@ Para descubrir cuál es el sabor más popular, primero tiene que definir qué se
 
 Clic en la pestaña sabores de su hoja de cálculo para ver los datos relevantes. La hoja de sabores tiene tres columnas y 209 filas de datos. Los encabezados de las columnas son semana, unidades vendidas y sabor. Este Conjunto de datos no venía con una descripción de los datos, por lo que tiene que averiguar el significado de las columnas por su cuenta. Basándose en los datos, usted deduce que estas columnas proporcionan información sobre el número de unidades vendidas de cada sabor de helado, por semana, en 2019
 
-![Captura01](/google_data_analist/assets/030401.png)
+![Captura01](/google_data_analist/03.Preparar_datos_para_el_analisis/assets/030401.png)
 
 Una captura de pantalla de una hoja de cálculo con datos en 3 columnas etiquetadas como semana, unidades vendidas y sabor
 
@@ -64,7 +64,7 @@ En este caso, puede descubrir cuál es el sabor más popular utilizando las unid
 
 Para explorar su segunda pregunta, haga clic en la ficha de temperaturas y consulte los datos. La hoja de temperaturas tiene dos columnas y 366 filas de datos. Los encabezados de las columnas son temperatura y ventas. Los datos pueden mostrar las ventas totales de 2019 por temperatura (por ejemplo, la primera entrada podría sumar 39,69 $ en ventas durante tres días distintos que tuvieron cada uno una máxima de 60 grados). O bien, los datos pueden mostrar una instantánea de las ventas y la temperatura de cada día de 2019 (por ejemplo, la primera entrada podría referirse a un único día con una máxima de 60 grados y 39,69 dólares en ventas).
 
-![Captura02](/google_data_analist/assets/030402.png)
+![Captura02](/google_data_analist/03.Preparar_datos_para_el_analisis/assets/030402.png)
 
 Una captura de pantalla de una hoja de cálculo con datos en 2 columnas etiquetadas como temperatura y ventas
 
@@ -76,7 +76,7 @@ Si resulta que la temperatura sí afecta a las ventas, podrá ofrecer a sus part
 
 A continuación, haga clic en la ficha de ventas para ver los datos sobre las fechas de venta. La hoja de ventas tiene dos columnas y 366 filas de datos. Los encabezados de las columnas son fecha y ventas. Lo más probable es que estos datos sean las ventas diarias totales en 2019, ASÍ como las ventas registradas para cada fecha en 2019. 
 
-![Captura03](/google_data_analist/assets/030403.png)
+![Captura03](/google_data_analist/03.Preparar_datos_para_el_analisis/assets/030403.png)
 
 Una captura de pantalla de una hoja de cálculo con datos en 2 columnas etiquetadas como fecha y ventas
 
